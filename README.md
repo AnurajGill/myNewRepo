@@ -1,6 +1,8 @@
 # myNewRepo
 this is a demo for CIT-66 Fall 23 at Fresno City College
-**## this is a sub heading
+
+**this is a sub heading**
+
 
 and this body text here
 
